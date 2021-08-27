@@ -1,0 +1,75 @@
+body{background: #fc466b; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fc466b, #3f5efb); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #fc466b, #3f5efb); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */}
+    
+
+ h1{padding-top: 60px;
+    
+    margin-top: 0px;
+    margin-left: 110px;
+    font-size: calc(40px + (80 - 40) * ((100vw - 300px) / (1600 - 300)));
+font-family: 'Rampart One', cursive;
+letter-spacing: -2px;
+line-height: -2;
+}
+
+       
+ #hth{margin-top: 120px;
+    font-size: calc(34px + (60 - 34) * ((100vw - 300px) / (1600 - 300)));
+font-family: 'Rampart One', cursive;
+letter-spacing: -1px;
+line-height: -2;
+font-weight: bolder;
+text-align: center;
+color: black;
+} 
+.mainimg{width: 50%;
+height:auto;
+margin-left: 640px;
+margin-top: -200px;
+}
+@media only screen and (max-width: 480px) {
+    .mainimg {
+      width: 100%;
+    }
+  }
+.col-lg-4 {padding: 3px;}
+
+
+
+.fab{ font-size: 60px;
+text-shadow: bisque;
+text-decoration:coral;
+padding-left: 35%;
+
+}
+
+.fas{ font-size: 60px;
+    text-shadow: bisque;
+    text-decoration:coral;
+ padding-left:35%; 
+}
+
+
+iframe{
+    width: 390px;
+}    
+/* 
+h2{
+    font-family: 'Rampart One', cursive;
+    font-size: 60px;
+    text-align: center;
+} */
+    p{
+        font-size:50px;
+        word-spacing: 5px;
+        font-family:'Rampart One', cursive;
+        font-weight: 800;
+text-align: center;
+    }
+    .row{
+        padding-top: 40px;
+    }
+svg{margin-top: 160px;}
+
+    
